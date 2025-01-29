@@ -1,0 +1,46 @@
+#a{
+    text-align: end;
+    text-decoration: none;
+    background-color: cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+#b{
+    color: aliceblue;
+}
+#c{
+    
+    
+    padding-left: 25%;
+    width:50%;
+    margin: auto;
+   
+}
+#d{
+    padding-left: 75%;
+}
+#e{
+    padding-left: 10%;
+}
+#f{
+    padding-left: 25%;
+}
+#g{
+    background-color: green;
+    color: aliceblue;
+}
+#h{
+    background-color: aliceblue;
+    color: black;
+}
+#i{
+    display: flex;
+    gap: 20%;
+    
+}
+#j{
+    display: flex;
+    gap: 220px;
+}
